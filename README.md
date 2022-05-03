@@ -1,27 +1,25 @@
 # Charts
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.9.
+This project  i sto learn about [Chart JS in Angular](https://valor-software.com/ng2-charts/#GeneralInfo) version 3.0.10
 
-## Development server
+## Ng2-Charts
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+ `npm install --save ng2-charts chart.js`
 
-## Code scaffolding
+## Types Of Charts
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [Line Chart](https://valor-software.com/ng2-charts/#LineChart)
+- [Bar Chart](https://valor-software.com/ng2-charts/#BarChart)
+- [Doughnut Chart](https://valor-software.com/ng2-charts/#DoughnutChart)
+- [Radar Chart](https://valor-software.com/ng2-charts/#RadarChart)
+- [Pie Chart](https://valor-software.com/ng2-charts/#PieChart)
+- etc.....
 
-## Build
+## Common fields
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+ `[options]=typeChartOptions   [label]=typeChartLabels   [data]=typeChartData  [type]=chartType` 
 
-## Running unit tests
+## Credits
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+[Tech Madi](https://github.com/TechMadi)
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
