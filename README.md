@@ -1,6 +1,6 @@
 # Charts
 
-This project  i sto learn about [Chart JS in Angular](https://valor-software.com/ng2-charts/#GeneralInfo) version 3.0.10
+This project is to learn about [Chart JS in Angular](https://valor-software.com/ng2-charts/#GeneralInfo) version 3.0.10
 
 ## Ng2-Charts
 
