@@ -23,3 +23,8 @@ This project is to learn about [Chart JS in Angular](https://valor-software.com/
 
 [Tech Madi](https://github.com/TechMadi)
 
+
+## Todo
+- Wiring up the nav links 
+- Adding  the routes
+
